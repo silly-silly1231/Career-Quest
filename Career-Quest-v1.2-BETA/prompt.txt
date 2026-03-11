@@ -1,1 +1,0 @@
-during chef report the part "plating cleany, and staying..." gets cut off by the boxes (same thing happens during software dev)
