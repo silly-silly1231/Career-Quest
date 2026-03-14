@@ -1,0 +1,28 @@
+{
+    "tutorial_dialogue_completed": true,
+    "completed_careers": [
+        "Doctor"
+    ],
+    "skills": {
+        "debugging": 0,
+        "logic": 0,
+        "efficiency": 0,
+        "speed": 0,
+        "timing": 0,
+        "precision": 0,
+        "organization": 0,
+        "composure": 0,
+        "triage": 4,
+        "diagnosis": 5,
+        "accuracy": 5,
+        "empathy": 4
+    },
+    "career_reports": {
+        "Doctor": {
+            "triage": 4,
+            "diagnosis": 5,
+            "accuracy": 5,
+            "empathy": 4
+        }
+    }
+}
